@@ -1,0 +1,10 @@
+# Bỏ qua các thư viện đã cài
+node_modules
+
+# Bỏ qua kết quả build (Vercel sẽ tự build)
+dist
+.dist
+
+# Bỏ qua các file biến môi trường
+.env
+.env.local
